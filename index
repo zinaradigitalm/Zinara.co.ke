@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    
+    <!-- Primary SEO Meta Tags -->
+    <title>Zinara Digital | Digital Marketing Agency in Kenya</title>
+    <meta name="description" content="Zinara Digital is a results-driven digital marketing agency in Kenya. We help SMBs grow with social media management, SEO, paid ads, website design, and content marketing. Get more customers today." />
+    <meta name="keywords" content="digital marketing agency Kenya, social media management Nairobi, SEO Kenya, paid ads Kenya, website design Kenya, Facebook ads Kenya, Instagram marketing Kenya, digital marketing SMB" />
+    <meta name="author" content="Zinara Digital" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://zinara.co.ke/" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://zinara.co.ke/" />
+    <meta property="og:title" content="Zinara Digital | Digital Marketing Agency in Kenya" />
+    <meta property="og:description" content="We help Kenyan businesses get more customers online. Social media, SEO, paid ads, and website design — done right." />
+    <meta property="og:image" content="https://d2xsxph8kpxj0f.cloudfront.net/310519663676126722/WVeyyfJ6ez2bwdSUVsRBGX/zinara-hero-JLfvmZV4ZYAxdZefeRKPFv.webp" />
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Zinara Digital | Digital Marketing Agency in Kenya" />
+    <meta name="twitter:description" content="We help Kenyan businesses get more customers online. Social media, SEO, paid ads, and website design." />
+    <meta name="twitter:image" content="https://d2xsxph8kpxj0f.cloudfront.net/310519663676126722/WVeyyfJ6ez2bwdSUVsRBGX/zinara-hero-JLfvmZV4ZYAxdZefeRKPFv.webp" />
+    
+    <!-- Structured Data: Local Business -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Zinara Digital",
+      "description": "Digital marketing agency in Kenya specializing in social media management, SEO, paid advertising, and website design for SMBs.",
+      "url": "https://zinara.co.ke",
+      "telephone": "+254700000000",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nairobi",
+        "addressCountry": "KE"
+      },
+      "areaServed": "Kenya",
+      "serviceType": ["Digital Marketing", "Social Media Management", "SEO", "Paid Advertising", "Website Design"]
+    }
+    </script>
+    
+    <!-- Google Fonts: Syne (display) + DM Sans (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script
+      defer
+      src="%VITE_ANALYTICS_ENDPOINT%/umami"
+      data-website-id="%VITE_ANALYTICS_WEBSITE_ID%"></script>
+  </body>
+</html>
